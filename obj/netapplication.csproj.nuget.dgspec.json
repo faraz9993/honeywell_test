@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/einfochips/All_Extras/Honeywell/gitnet/netapp/netapplication.csproj": {}
+    "/home/einfochips/honeywell_test/netapplication.csproj": {}
   },
   "projects": {
-    "/home/einfochips/All_Extras/Honeywell/gitnet/netapp/netapplication.csproj": {
+    "/home/einfochips/honeywell_test/netapplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/einfochips/All_Extras/Honeywell/gitnet/netapp/netapplication.csproj",
+        "projectUniqueName": "/home/einfochips/honeywell_test/netapplication.csproj",
         "projectName": "netapplication",
-        "projectPath": "/home/einfochips/All_Extras/Honeywell/gitnet/netapp/netapplication.csproj",
+        "projectPath": "/home/einfochips/honeywell_test/netapplication.csproj",
         "packagesPath": "/home/einfochips/.nuget/packages/",
-        "outputPath": "/home/einfochips/All_Extras/Honeywell/gitnet/netapp/obj/",
+        "outputPath": "/home/einfochips/honeywell_test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/einfochips/.nuget/NuGet/NuGet.Config"
